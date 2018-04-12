@@ -1,0 +1,69 @@
+body{
+    background-color: #f2f2f2;
+}
+/* ===================== pages layout ===================== */
+.flex-container {
+    display: -webkit-flex;
+    display: flex;
+    -webkit-justify-content: space-between;
+    justify-content: space-between;
+     align-items: stretch;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+
+.flex-item {
+    background-color: #e6e6e6;
+    overflow:scroll;
+    height: auto;
+    margin: 10px;
+}
+/* ===================== end pages layout ===================== */
+
+
+
+
+/* ===================== signin page ===================== */
+ .web-name{
+    font-family: Verdana;
+    color: #369;
+}
+
+#container{
+    width: auto;
+    height:auto;
+}
+
+#signin{
+    margin: auto;
+    width: 25%;
+    text-align: center;
+    font: Verdana;
+}
+/* ===================== end signin page ===================== */
+
+
+
+
+
+
+/* ===================== Sin Up page ===================== */
+#new-container{
+   margin: auto;
+    width: 17%;
+    padding: 10px;
+}
+.new-form-iput{
+    font-family: Verdana;
+    color: #369;
+    height:50px;
+    width:220px;
+    font-size:16pt;
+}
+.wepname{
+    font-family:Verdana; 
+    color: #369;
+    
+}
+/* ===================== end Sin Up page ===================== */

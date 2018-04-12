@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel = "stylesheet" type = "text/css" href = "../css/Styles.css">
+  <script src="../javasecript.js"></script>
+  <link rel="icon" href="../img/mainlogo.png">
+</head>
+<body>
+  <div class="flex-container">
+    
+    <div style="width: 25%;" class="flex-item">
+      left
+    </div>
+    
+    <div style="width: 50%;" class="flex-item">
+      center
+    </div>
+    
+    <div style="width: 25%;" class="flex-item">
+      right
+    </div> 
+    
+  </div>
+
+</body>
+</html>
+

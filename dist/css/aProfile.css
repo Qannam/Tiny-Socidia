@@ -1,0 +1,57 @@
+.menue {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #668cff;
+    height:50px;
+}
+
+.eleMenue {
+    float: left;
+    margin-left:50px;
+    padding:16px;
+   
+}
+
+.linkeEleMenue {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    
+}
+
+.myOption:hover {
+    background-color: #80b3ff;
+}
+.containOfMenueOption{
+    display: none;
+}
+.boundryMenue{
+    border-style: solid;
+    border-color: #668cff;
+    background-color:#f5f5f5;
+    height: 873px;
+    width: 730px;
+    margin:auto;
+}
+
+.contain{
+    background-color:#f5f5f5;
+    color: white;
+}
+.ListOfFirends{
+ padding: 50px;
+  margin:auto;
+  text-align: center;
+}
+.listsdiv{
+    background-color:#d9d9d9;
+    height: 664px;
+    width: 90px;
+}
+.td{
+    width:20%;
+}
